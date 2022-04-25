@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+
+}
+
+a{
+    color:#FFD48F; 
+}
+
+body{
+    background-color: #0797E6;
+}
+
+p{
+    color: #FFA069;
+}
+
+em{
+    color:rgb(143,38,31);
+
+}
+
+b{
+    background-color: rgb(199,58,222);
+}
+
+u{
+    background-color: orange;
+}
+
